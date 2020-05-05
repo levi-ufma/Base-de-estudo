@@ -7,8 +7,8 @@ Referências sobre DataScience e Inteligência artificial
 ## DataScience
 
 ## IA
-### Deep Learning
-### Machine Learning
+* Deep Learning
+* Machine Learning
 
 
 ## Outros repositório
