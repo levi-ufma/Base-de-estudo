@@ -7,8 +7,8 @@ Referências sobre DataScience e Inteligência artificial
 ## DataScience
 
 ## IA
-* Deep Learning
-* Machine Learning
+* [Deep Learning](https://github.com/levi-ufma/Base-de-estudo/blob/master/topicos/deep-learning.md)
+* [Machine Learning](https://github.com/levi-ufma/Base-de-estudo/blob/master/topicos/datascience.md)
 
 
 ## Outros repositório
