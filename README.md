@@ -12,7 +12,7 @@ Referências sobre DataScience e Inteligência artificial
 * [Machine Learning](https://github.com/levi-ufma/Base-de-estudo/blob/master/topicos/machine-learning.md)
 
 ## Docker
-* [Docker]((https://github.com/levi-ufma/Base-de-estudo/blob/master/topicos/docker.md))
+* [Docker](https://github.com/levi-ufma/Base-de-estudo/blob/master/topicos/docker.md)
 
 
 ## Outros repositório
