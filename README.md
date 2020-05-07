@@ -15,7 +15,7 @@ Referências sobre DataScience e Inteligência artificial
 * [Docker](https://github.com/levi-ufma/Base-de-estudo/blob/master/topicos/docker.md)
 
 
-## Outros repositório
+## Outros repositórios
 * [Pug-Ma](https://github.com/pug-ma/materiais_estudo)
 
 * [Pizza De Dados](https://github.com/PizzaDeDados/datascience-pizza)
