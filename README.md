@@ -13,7 +13,7 @@ Referências sobre DataScience e Inteligência artificial
 
 
 ## Outros repositório
-[Pug-Ma](https://github.com/pug-ma/materiais_estudo)
+* [Pug-Ma](https://github.com/pug-ma/materiais_estudo)
 
-[Pizza De Dados](https://github.com/PizzaDeDados/datascience-pizza)
+* [Pizza De Dados](https://github.com/PizzaDeDados/datascience-pizza)
 
