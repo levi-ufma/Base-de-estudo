@@ -20,3 +20,5 @@ Referências sobre DataScience e Inteligência artificial
 
 * [Pizza De Dados](https://github.com/PizzaDeDados/datascience-pizza)
 
+* [REAMAT](https://www.ufrgs.br/reamat/)
+
