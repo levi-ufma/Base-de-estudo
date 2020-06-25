@@ -1,6 +1,6 @@
 # python 
 
-## book
+## Books
 
 * [Pense Python](https://penseallen.github.io/PensePython2e/)
 * [python iluminado](https://pythoniluminado.surge.sh/ambiente)
