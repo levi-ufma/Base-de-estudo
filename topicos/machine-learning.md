@@ -1,8 +1,8 @@
 # Machine Learning
 
-## Livros
+* Livros
 
-## Vídeos
+* Vídeos
 
-## Artigos
+* Artigos
 [Métodos de Gradiente Descendente](http://leg.ufpr.br/~walmes/ensino/ML/tutorials/02-gradient-methods.html)
