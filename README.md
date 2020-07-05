@@ -24,3 +24,5 @@ Referências sobre DataScience e Inteligência artificial
 
 * [Git](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup)
 
+*[Diogo Cortiz](https://www.youtube.com/playlist?list=PLtQM10PgmGogjn0cikgWi8wpQUnV6ERkY)
+
