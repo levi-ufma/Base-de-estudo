@@ -1,8 +1,8 @@
 # python 
 
 ## Plataforma de Exercício
-* [the huxley](https://www.thehuxley.com/)
-* [uri online judge](https://www.urionlinejudge.com.br)
+* [The Huxley](https://www.thehuxley.com/)
+* [Uri Online Judge](https://www.urionlinejudge.com.br)
 
 ## Books
 
