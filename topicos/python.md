@@ -1,5 +1,9 @@
 # python 
 
+## Plataforma de Exercício
+* [the huxley](https://www.thehuxley.com/)
+* [uri online judge](https://www.urionlinejudge.com.br)
+
 ## Books
 
 * [Pense Python](https://penseallen.github.io/PensePython2e/)
