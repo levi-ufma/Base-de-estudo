@@ -26,3 +26,5 @@ Referências sobre DataScience e Inteligência artificial
 
 * [Diogo Cortiz](https://www.youtube.com/playlist?list=PLtQM10PgmGogjn0cikgWi8wpQUnV6ERkY)
 
+* [python 4 noobs](https://github.com/wendrewdevelop/python4noobs)
+
