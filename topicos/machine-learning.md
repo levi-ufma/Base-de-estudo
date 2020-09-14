@@ -1,6 +1,7 @@
 # Machine Learning
 
 ## Books
+* [Introdução ao Machine Learning - worcap](https://dataat.github.io/introducao-ao-machine-learning)
 
 ## Cursos
 * [Téo Me Why](https://www.youtube.com/playlist?list=PLvlkVRRKOYFQOK176fl9bLjzFkvhIOSwu)
