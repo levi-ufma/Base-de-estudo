@@ -5,6 +5,7 @@
 
 ## Cursos
 * [Téo Me Why](https://www.youtube.com/playlist?list=PLvlkVRRKOYFQOK176fl9bLjzFkvhIOSwu)
+* [Curso Machine Learning gratuito UFPR](http://cursos.leg.ufpr.br/ML4all/1parte/)
 
 ## Artigos
 * [Métodos de Gradiente Descendente](http://leg.ufpr.br/~walmes/ensino/ML/tutorials/02-gradient-methods.html)
