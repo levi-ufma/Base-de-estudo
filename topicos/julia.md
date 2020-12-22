@@ -1,6 +1,7 @@
 # Julia
 ## Livro
 * [Introdução à programação em julia](https://juliaintro.github.io/JuliaIntroBR.jl/)
+* [O Manual de Julia](https://julia-pt-br.readthedocs.io/pt_BR/latest/manual/index.html)
 
 ## Curso
 * [julia academy](https://juliaacademy.com/)
