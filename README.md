@@ -29,3 +29,5 @@ Referências sobre DataScience e Inteligência artificial
 
 * [python 4 noobs](https://github.com/wendrewdevelop/python4noobs)
 
+* [Computational Statistics and Statistical Computing](http://people.duke.edu/~ccc14/sta-663-2018/index.html)
+
