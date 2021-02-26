@@ -9,3 +9,5 @@
 ## Cursos
 * [Python para Zumbis-Análise de Dados Públicos](https://www.youtube.com/playlist?list=PLUukMN0DTKCu6g2Lq1KXLnIX6Ilk4DAPI)
 
+* [Data ICMC](https://www.youtube.com/playlist?list=PLFE-LjWAAP9SfEuLXf3qrpw4szKWjlYq9)
+
