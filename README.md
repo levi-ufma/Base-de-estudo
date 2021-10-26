@@ -15,7 +15,8 @@ Referências sobre DataScience e Inteligência artificial
 ## Docker
 * [Docker](https://github.com/levi-ufma/Base-de-estudo/blob/master/topicos/docker.md)
 
-
+## Web
+* [Web](https://github.com/jherfson/Base-de-estudo/blob/master/topicos/web.md)
 ## Outros repositórios
 * [Pug-Ma](https://github.com/pug-ma/materiais_estudo)
 
