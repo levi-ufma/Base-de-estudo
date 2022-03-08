@@ -11,6 +11,7 @@
 * [Téo Me Why](https://www.youtube.com/playlist?list=PLvlkVRRKOYFQOK176fl9bLjzFkvhIOSwu)
 * [Curso Machine Learning gratuito UFPR](http://cursos.leg.ufpr.br/ML4all/1parte/)
 * [Machine Learning - Andrew Ng, Stanford University](https://youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
+* [Stanford CS229: Machine Learning | Aurumn 2018](https://youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
 
 ## Artigos
 * [Métodos de Gradiente Descendente](http://leg.ufpr.br/~walmes/ensino/ML/tutorials/02-gradient-methods.html)
