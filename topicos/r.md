@@ -3,3 +3,4 @@
 
 # Site
 * [R-Ladies-BH](https://rladiesbh.com.br/)
+* [ridiculas](https://ridiculas.wordpress.com/)
