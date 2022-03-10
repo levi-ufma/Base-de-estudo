@@ -4,6 +4,7 @@ Referências sobre DataScience e Inteligência artificial
 ## Linguagens
 * [Python](https://github.com/levi-ufma/Base-de-estudo/blob/master/topicos/python.md)
 * [Julia](https://github.com/levi-ufma/Base-de-estudo/blob/master/topicos/julia.md)
+* [R](https://github.com/levi-ufma/Base-de-estudo/blob/master/topicos/r.md)
 
 ## DataScience
 * [DataScience](https://github.com/levi-ufma/Base-de-estudo/blob/master/topicos/datascience.md)
