@@ -6,6 +6,8 @@
 
 * [Deep Learning Book](http://www.deeplearningbook.com.br/)
 
+* [Dive into Deep Learning](https://pt.d2l.ai/)
+
 
 
 
@@ -15,6 +17,8 @@
 
 ## Cursos
 * [CANAL SANDECO](https://www.youtube.com/watch?v=ei5F76hF2bg&list=PLbmt8d_ueDMVUVlw9VZSdgAIi6W3u-7Zg)
+
 * [Codebasics](https://youtube.com/playlist?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO)
+
 * [Universo Discreto](https://youtube.com/playlist?list=PL-t7zzWJWPtygNTsgC_M8c9a-p5biCjho)
 
