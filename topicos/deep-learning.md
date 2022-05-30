@@ -8,6 +8,8 @@
 
 * [Dive into Deep Learning](https://pt.d2l.ai/)
 
+* [Computer Vision: Algorithms and Applications, 2nd ed.](https://szeliski.org/Book/)
+
 
 
 
