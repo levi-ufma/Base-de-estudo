@@ -8,6 +8,7 @@
 * [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/first/ebook/the-book.html)
 * [Rafael Izbicki](http://www.rizbicki.ufscar.br/ame/)
 * [Mathematics for Machine Learning](https://mml-book.github.io/book/mml-book.pdf)
+* [Mathematics for Machine Learning](https://mml-book.github.io/)
 
 ## Cursos
 * [Téo Me Why](https://www.youtube.com/playlist?list=PLvlkVRRKOYFQOK176fl9bLjzFkvhIOSwu)
