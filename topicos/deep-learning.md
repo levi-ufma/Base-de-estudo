@@ -10,6 +10,8 @@
 
 * [Computer Vision: Algorithms and Applications, 2nd ed.](https://szeliski.org/Book/)
 
+* [The Mathematical Engineering of Deep Learning ](https://deeplearningmath.org/)
+
 
 
 
