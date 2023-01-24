@@ -7,7 +7,7 @@ Referências sobre DataScience e Inteligência artificial
 * [R](https://github.com/levi-ufma/Base-de-estudo/blob/master/topicos/r.md)
 
 ## Data Analysis
-* [Data Analysis](https://github.com/levi-ufma/Base-de-estudo/blob/master/topicos/dataanalusys.md
+* [Data Analysis](https://github.com/levi-ufma/Base-de-estudo/blob/master/topicos/dataanalusys.md)
 
 ## DataScience
 * [DataScience](https://github.com/levi-ufma/Base-de-estudo/blob/master/topicos/datascience.md)
