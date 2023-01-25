@@ -1,6 +1,6 @@
 # Deep Learning
 
-## Livros
+## Book
 
 * [Deep Learning with Python](https://livebook.manning.com/book/deep-learning-with-python/about-this-book/0)
 
@@ -11,6 +11,8 @@
 * [Computer Vision: Algorithms and Applications, 2nd ed.](https://szeliski.org/Book/)
 
 * [The Mathematical Engineering of Deep Learning ](https://deeplearningmath.org/)
+
+* [DEEP LEARNING INTERVIEWS](https://arxiv.org/pdf/2201.00650.pdf)
 
 
 
