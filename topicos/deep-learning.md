@@ -14,6 +14,8 @@
 
 * [DEEP LEARNING INTERVIEWS](https://arxiv.org/pdf/2201.00650.pdf)
 
+* [Understanding Deep Learning](https://udlbook.github.io/udlbook/)
+
 
 
 
