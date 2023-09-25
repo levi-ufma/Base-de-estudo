@@ -9,6 +9,8 @@
 * [Rafael Izbicki](http://www.rizbicki.ufscar.br/ame/)
 * [Mathematics for Machine Learning](https://mml-book.github.io/book/mml-book.pdf)
 * [Mathematics for Machine Learning](https://mml-book.github.io/)
+* [Machine Learning: A Probabilistic Perspective](https://www.cs.ubc.ca/~murphyk/MLbook/pml-toc-1may12.pdf)
+* [Pattern Recognition and Machine Learning](https://www.cs.uoi.gr/~arly/courses/ml/tmp/Bishop_book.pdf)
 
 ## Cursos
 * [Téo Me Why](https://www.youtube.com/playlist?list=PLvlkVRRKOYFQOK176fl9bLjzFkvhIOSwu)
