@@ -9,6 +9,7 @@
 * [Pense Python](https://penseallen.github.io/PensePython2e/)
 * [python iluminado](https://pythoniluminado.surge.sh/ambiente)
 * [Python® Notes for Professionals book](https://books.goalkicker.com/PythonBook/)
+* [Python Fluente](https://pythonfluente.com/)
 
 ## Documentação
 * [Python](https://docs.python.org/pt-br/3/tutorial/)
