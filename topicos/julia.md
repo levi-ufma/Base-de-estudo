@@ -3,6 +3,7 @@
 * [Introdução à programação em julia](https://juliaintro.github.io/JuliaIntroBR.jl/)
 * [O Manual de Julia](https://julia-pt-br.readthedocs.io/pt_BR/latest/manual/index.html)
 * [Fundamentos Computacionais de Simulações em Química](http://leandro.iqm.unicamp.br/m3g/main/didatico/simulacoes/tutorial-Julia.pdf)
+* [Julia com física: uma introdução](https://www.seduc.ce.gov.br/wp-content/uploads/sites/37/2023/09/Ebook-02-Julia-com-Fisica.pdf)
 
 ## Curso
 * [julia academy](https://juliaacademy.com/)
