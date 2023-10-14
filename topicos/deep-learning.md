@@ -16,6 +16,8 @@
 
 * [Understanding Deep Learning](https://udlbook.github.io/udlbook/)
 
+* [A Brief Introduction to Neural Networks](https://dkriesel.com/en/science/neural_networks)
+
 
 
 
