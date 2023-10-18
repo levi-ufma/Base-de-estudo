@@ -18,6 +18,8 @@
 
 * [A Brief Introduction to Neural Networks](https://dkriesel.com/en/science/neural_networks)
 
+* [Artificial Intelligence for Beginners - A Curriculum](https://microsoft.github.io/AI-For-Beginners/)
+
 
 
 
