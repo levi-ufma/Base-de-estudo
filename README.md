@@ -9,7 +9,7 @@ Referências sobre DataScience e Inteligência artificial
 * [Cálculo](https://github.com/levi-ufma/Base-de-estudo/blob/master/topicos/calculo.md)
 
 
-## **Equações diferenciais**
+## **Equações Diferenciais**
 * [Equações diferenciais](https://github.com/levi-ufma/Base-de-estudo/blob/master/topicos/edo.md)
 
 
