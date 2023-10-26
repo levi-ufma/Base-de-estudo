@@ -13,6 +13,10 @@ Referências sobre DataScience e Inteligência artificial
 * [Equações diferenciais](https://github.com/levi-ufma/Base-de-estudo/blob/master/topicos/edo.md)
 
 
+## **Física Matemática**
+* [Física Matemática](https://github.com/levi-ufma/Base-de-estudo/blob/master/topicos/fisica_matematica.md)
+
+
 ## **Cálculo Numérico**
 * [Cálculo Numérico](https://github.com/levi-ufma/Base-de-estudo/blob/master/topicos/calculo_numerico.md)
 
