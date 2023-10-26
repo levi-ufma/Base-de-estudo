@@ -3,6 +3,9 @@ Referências sobre DataScience e Inteligência artificial
 ## **Cálculo Numérico**
 * [Cálculo Numérico](https://github.com/levi-ufma/Base-de-estudo/blob/master/topicos/calculo_numerico.md)
 
+## **Cálculo**
+* [Cálculo](https://github.com/levi-ufma/Base-de-estudo/blob/master/topicos/calculo.md)
+
 ## **Linguagens**
 * [Python](https://github.com/levi-ufma/Base-de-estudo/blob/master/topicos/python.md)
 * [Julia](https://github.com/levi-ufma/Base-de-estudo/blob/master/topicos/julia.md)
