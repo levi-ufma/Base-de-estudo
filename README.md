@@ -1,31 +1,44 @@
 # **Base-de-estudo**
 Referências sobre DataScience e Inteligência artificial
-## **Cálculo Numérico**
-* [Cálculo Numérico](https://github.com/levi-ufma/Base-de-estudo/blob/master/topicos/calculo_numerico.md)
+
+## **Álgebra Linear**
+* [Álgebra Linear](https://github.com/levi-ufma/Base-de-estudo/blob/master/topicos/algebra_Linear.md)
+
 
 ## **Cálculo**
 * [Cálculo](https://github.com/levi-ufma/Base-de-estudo/blob/master/topicos/calculo.md)
+
+
+## **Cálculo Numérico**
+* [Cálculo Numérico](https://github.com/levi-ufma/Base-de-estudo/blob/master/topicos/calculo_numerico.md)
+
 
 ## **Linguagens**
 * [Python](https://github.com/levi-ufma/Base-de-estudo/blob/master/topicos/python.md)
 * [Julia](https://github.com/levi-ufma/Base-de-estudo/blob/master/topicos/julia.md)
 * [R](https://github.com/levi-ufma/Base-de-estudo/blob/master/topicos/r.md)
 
+
 ## **Algoritmos**
 * [Algorithms](https://jeffe.cs.illinois.edu/teaching/algorithms/#book)
+
 
 ## **Data Analysis**
 * [Data Analysis](https://github.com/levi-ufma/Base-de-estudo/blob/master/topicos/dataanalysis.md)
 
+
 ## **DataScience**
 * [DataScience](https://github.com/levi-ufma/Base-de-estudo/blob/master/topicos/datascience.md)
+
 
 ## **IA**
 * [Deep Learning](https://github.com/levi-ufma/Base-de-estudo/blob/master/topicos/deep-learning.md)
 * [Machine Learning](https://github.com/levi-ufma/Base-de-estudo/blob/master/topicos/machine-learning.md)
 
+
 ## **Docker**
 * [Docker](https://github.com/levi-ufma/Base-de-estudo/blob/master/topicos/docker.md)
+
 
 ## **Web**
 * [Web](https://github.com/jherfson/Base-de-estudo/blob/master/topicos/web.md)
