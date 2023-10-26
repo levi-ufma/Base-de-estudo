@@ -1,27 +1,32 @@
-# Base-de-estudo
+# **Base-de-estudo**
 Referências sobre DataScience e Inteligência artificial
 
-## Linguagens
+## **Linguagens**
 * [Python](https://github.com/levi-ufma/Base-de-estudo/blob/master/topicos/python.md)
 * [Julia](https://github.com/levi-ufma/Base-de-estudo/blob/master/topicos/julia.md)
 * [R](https://github.com/levi-ufma/Base-de-estudo/blob/master/topicos/r.md)
 
-## Data Analysis
+## **Algoritmos**
+* [Algorithms](https://jeffe.cs.illinois.edu/teaching/algorithms/#book)
+
+## **Data Analysis**
 * [Data Analysis](https://github.com/levi-ufma/Base-de-estudo/blob/master/topicos/dataanalysis.md)
 
-## DataScience
+## **DataScience**
 * [DataScience](https://github.com/levi-ufma/Base-de-estudo/blob/master/topicos/datascience.md)
 
-## IA
+## **IA**
 * [Deep Learning](https://github.com/levi-ufma/Base-de-estudo/blob/master/topicos/deep-learning.md)
 * [Machine Learning](https://github.com/levi-ufma/Base-de-estudo/blob/master/topicos/machine-learning.md)
 
-## Docker
+## **Docker**
 * [Docker](https://github.com/levi-ufma/Base-de-estudo/blob/master/topicos/docker.md)
 
-## Web
+## **Web**
 * [Web](https://github.com/jherfson/Base-de-estudo/blob/master/topicos/web.md)
-## Outros repositórios
+
+  
+## **Outros repositórios**
 * [Pug-Ma](https://github.com/pug-ma/materiais_estudo)
 
 * [Pizza De Dados](https://github.com/PizzaDeDados/datascience-pizza)
