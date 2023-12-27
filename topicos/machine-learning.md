@@ -2,9 +2,7 @@
 
 ## Books
 * [Introdução ao Machine Learning - worcap](https://dataat.github.io/introducao-ao-machine-learning)
-
 * [Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/index.html)
-
 * [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/first/ebook/the-book.html)
 * [Rafael Izbicki](http://www.rizbicki.ufscar.br/ame/)
 * [Mathematics for Machine Learning](https://mml-book.github.io/book/mml-book.pdf)
@@ -12,6 +10,7 @@
 * [Machine Learning: A Probabilistic Perspective](https://www.cs.ubc.ca/~murphyk/MLbook/pml-toc-1may12.pdf)
 * [Pattern Recognition and Machine Learning](https://www.cs.uoi.gr/~arly/courses/ml/tmp/Bishop_book.pdf)
 * [Introduction to Modern Statistics](https://openintro-ims.netlify.app/)
+* [Approaching (Almost) Any Machine Learning Problem](https://github.com/abhishekkrthakur/approachingalmost/blob/master/AAAMLP.pdf)
 
 ## Cursos
 * [Téo Me Why](https://www.youtube.com/playlist?list=PLvlkVRRKOYFQOK176fl9bLjzFkvhIOSwu)
